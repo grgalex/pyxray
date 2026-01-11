@@ -1,0 +1,8 @@
+Tensor_instancecheck
+Tensor_dtype
+Tensor_layout
+Tensor_is_cuda
+Tensor_is_xpu
+Tensor_is_sparse
+Tensor_is_sparse_csr
+Tensor_new

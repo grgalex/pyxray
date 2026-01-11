@@ -1,0 +1,4 @@
+AioRpcStatus.code
+AioRpcStatus.details
+AioRpcStatus.trailing_metadata
+AioRpcStatus.debug_error_string

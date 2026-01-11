@@ -1,0 +1,5 @@
+openssl_version
+openssl_version_text
+is_fips_enabled
+enable_fips
+PyInit__rust

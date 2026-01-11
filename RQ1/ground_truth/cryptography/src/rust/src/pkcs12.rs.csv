@@ -1,0 +1,7 @@
+PKCS12Certificate.__new__
+PKCS12Certificate.__richcmp__
+PKCS12Certificate.__hash__
+PKCS12Certificate.__repr__
+serialize_key_and_certificates
+load_key_and_certificates
+load_pkcs12

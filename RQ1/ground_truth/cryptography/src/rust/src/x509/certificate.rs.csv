@@ -1,0 +1,12 @@
+Certificate.__hash__
+Certificate.__richcmp__
+Certificate.__repr__
+Certificate.__deepcopy__
+Certificate.public_key
+Certificate.fingerprint
+Certificate.public_bytes
+Certificate.verify_directly_issued_by
+load_pem_x509_certificate
+load_pem_x509_certificates
+load_der_x509_certificate
+create_x509_certificate

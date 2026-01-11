@@ -1,0 +1,8 @@
+AioChannel.__dealloc__
+AioChannel.__repr__
+AioChannel.check_connectivity_state
+AioChannel.watch_connectivity_state
+AioChannel.closing
+AioChannel.close
+AioChannel.closed
+AioChannel.call

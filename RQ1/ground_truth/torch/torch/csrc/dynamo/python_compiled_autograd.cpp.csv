@@ -1,0 +1,4 @@
+set_autograd_compiler
+clear_cache
+is_cache_empty
+set_verbose_logger

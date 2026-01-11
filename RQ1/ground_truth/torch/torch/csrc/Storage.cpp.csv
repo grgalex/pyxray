@@ -1,0 +1,7 @@
+THPStorage_device
+THPStorage_get_cdata
+THPStorage_length
+THPStorage_get
+THPStorage_set
+THPStorageMetaType_init
+THPStorage_pynew

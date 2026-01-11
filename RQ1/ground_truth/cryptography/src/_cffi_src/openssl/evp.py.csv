@@ -1,0 +1,10 @@
+EVP_get_cipherbyname
+EVP_get_digestbyname
+EVP_PKEY_new
+EVP_PKEY_free
+EVP_PKEY_type
+EVP_PKEY_get1_RSA
+EVP_PKEY_set1_DSA
+EVP_PKEY_id
+EVP_PKEY_bits
+EVP_PKEY_assign_RSA

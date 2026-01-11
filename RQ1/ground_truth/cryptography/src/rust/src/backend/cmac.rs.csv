@@ -1,0 +1,7 @@
+Cmac.get_ctx
+Cmac.get_mut_ctx
+Cmac.__new__
+Cmac.update
+Cmac.finalize
+Cmac.verify
+Cmac.copy

@@ -1,0 +1,26 @@
+DHPrivateKey.exchange
+DHPrivateKey.private_numbers
+DHPrivateKey.public_key
+DHPrivateKey.parameters
+DHPrivateKey.private_bytes
+DHPrivateKey.__copy__
+DHPublicKey.public_bytes
+DHPublicKey.parameters
+DHPublicKey.public_numbers
+DHPublicKey.__eq__
+DHPublicKey.__copy__
+DHParameters.generate_private_key
+DHParameters.parameter_numbers
+DHParameters.parameter_bytes
+dh.generate_parameters
+from_der_parameters
+from_pem_parameters
+DHPrivateNumbers.__new__ (from #[new] -> __new__)
+DHPrivateNumbers.private_key
+DHPrivateNumbers.__richcmp__ (from __eq__ -> tp_richcmp of TypeObject)
+DHPublicNumbers.__new__ (from #[new] -> __new__)
+DHPublicNumbers.public_key
+DHPublicNumbers.__richcmp__ (from __eq__ -> tp_richcmp)
+DHParameterNumbers.__new__
+DHParameterNumbers.parameters
+DHParameterNumbers.__richcmp__

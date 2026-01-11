@@ -1,0 +1,2 @@
+Internal-only datatype, used for testing.
+Not exposed to the numpy module.

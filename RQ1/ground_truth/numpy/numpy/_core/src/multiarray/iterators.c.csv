@@ -1,0 +1,12 @@
+arrayiter_next
+arraymultiter_index_get
+arraymultiter_iters_get
+arraymultiter_next
+arraymultiter_reset
+arraymultiter_shape_get
+arraymultiter_size_get
+iter_array
+iter_coords_get
+iter_copy
+iter_index_get
+iter_richcompare

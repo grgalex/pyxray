@@ -1,0 +1,2 @@
+By default it is not defined, so they are not added to numpy.
+These are only defined if #NPY_SIMD is defined.

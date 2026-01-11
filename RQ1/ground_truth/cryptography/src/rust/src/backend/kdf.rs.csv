@@ -1,0 +1,7 @@
+derive_pbkdf2_hmac
+Scrypt.__new__
+Scrypt.derive
+Scrypt.verify
+Argon2id.__new__
+Argon2id.derive
+Argon2id.verify

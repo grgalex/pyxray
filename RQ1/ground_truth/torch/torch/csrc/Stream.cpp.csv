@@ -1,0 +1,12 @@
+THPStream_get_device
+THPStream_synchronize
+THPStream_wait_event
+THPStream_wait_stream
+THPStream_record_event
+THPStream_eq
+THPStream_query
+THPStream_dealloc
+THPStream_repr
+THPStream_hash
+THPStream_richcompare
+THPStream_pynew

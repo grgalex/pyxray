@@ -1,0 +1,16 @@
+CallHandle.__dealloc__
+CallHandle.call_handle
+IntegratedCall.operate
+IntegratedCall.cancel
+SegregatedCall.operate
+SegregatedCall.cancel
+SegregatedCall.next_event
+Channel.target
+Channel.integrated_call
+Channel.next_call_event
+Channel.segregated_call
+Channel.check_connectivity_state
+Channel.watch_connectivity_state
+Channel.close
+Channel.close_on_fork
+Channel.get_registered_call_handle

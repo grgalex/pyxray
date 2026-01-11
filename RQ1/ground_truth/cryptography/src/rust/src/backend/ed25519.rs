@@ -1,0 +1,13 @@
+ed25519.generate_key
+ed25519.from_private_bytes
+ed25519.from_public_bytes
+Ed25519PrivateKey.sign
+Ed25519PrivateKey.public_key
+Ed25519PrivateKey.private_bytes_raw
+Ed25519PrivateKey.private_bytes
+Ed25519PrivateKey.__copy__
+Ed25519PublicKey.verify
+Ed25519PublicKey.public_bytes_raw
+Ed25519PublicKey.public_bytes
+Ed25519PublicKey.__richcmp__
+Ed25519PublicKey.__copy__

@@ -1,0 +1,10 @@
+EOF.__bool__
+EOF.__len__
+EOF._repr
+EOF.__repr__
+EOF.__str__
+schedule_coro_threadsafe
+async_generator_to_generator
+generator_to_async_generator
+get_working_loop
+raise_if_not_valid_trailing_metadata

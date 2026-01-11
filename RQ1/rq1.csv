@@ -1,0 +1,10 @@
+torch:RQ1
+pyaudio:RQ1
+python-ldap:RQ1
+trace-cruncher:RQ1
+numpy:RQ1
+pyyaml:RQ1
+pynacl:RQ1
+cryptography:RQ1
+pandas:RQ1
+grpcio:RQ1

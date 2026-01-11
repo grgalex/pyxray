@@ -1,0 +1,4 @@
+DSA_generate_key
+DSA_new
+DSA_free
+DSA_generate_parameters_ex

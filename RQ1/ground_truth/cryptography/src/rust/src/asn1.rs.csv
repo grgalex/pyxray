@@ -1,0 +1,3 @@
+parse_spki_for_data
+decode_dss_signature
+encode_dss_signature

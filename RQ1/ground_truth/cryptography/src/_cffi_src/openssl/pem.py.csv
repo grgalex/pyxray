@@ -1,0 +1,9 @@
+PEM_read_bio_X509
+PEM_write_bio_X509
+PEM_write_bio_PrivateKey
+PEM_read_bio_PrivateKey
+PEM_write_bio_X509_REQ
+PEM_read_bio_X509_REQA
+PEM_read_bio_DHparams
+PEM_read_bio_PUBKEY
+PEM_write_bio_PUBKEY

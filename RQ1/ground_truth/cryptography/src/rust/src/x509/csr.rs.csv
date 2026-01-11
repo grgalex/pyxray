@@ -1,0 +1,8 @@
+CertificateSigningRequest.__hash__
+CertificateSigningRequest.__richcmp__
+CertificateSigningRequest.public_key
+CertificateSigningRequest.public_bytes
+CertificateSigningRequest.get_attribute_for_oid
+load_pem_x509_csr
+load_der_x509_csr
+create_x509_csr

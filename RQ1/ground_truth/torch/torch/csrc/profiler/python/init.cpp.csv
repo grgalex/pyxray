@@ -1,0 +1,8 @@
+RecordFunctionFast_enter
+RecordFunctionFast_exit
+RecordFunctionFast_dealloc
+RecordFunctionFast_init
+RecordFunctionFast_new
+THPCapturedTraceback_traverse
+THPCapturedTraceback_clear
+THPCapturedTraceback_dealloc

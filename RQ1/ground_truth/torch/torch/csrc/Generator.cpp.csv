@@ -1,0 +1,12 @@
+THPGenerator_reduce
+THPGenerator_pickleSetState
+THPGenerator_getState
+THPGenerator_setState
+THPGenerator_cloneState
+THPGenerator_graphSafeGetState
+THPGenerator_setOffset
+THPGenerator_manualSeed
+THPGenerator_initialSeed
+THPGenerator_dealloc
+THPGenerator_pynew
+THPGenerator_get_device

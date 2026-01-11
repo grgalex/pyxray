@@ -1,0 +1,10 @@
+CallDetails.__dealloc__
+CallDetails.method
+CallDetails.host
+CallDetails.deadline
+CompressionOptions.enable_algorithm
+CompressionOptions.disable_algorithm
+CompressionOptions.is_algorithm_enabled
+CompressionOptions.to_channel_arg
+compression_algorithm_name
+reset_grpc_config_vars

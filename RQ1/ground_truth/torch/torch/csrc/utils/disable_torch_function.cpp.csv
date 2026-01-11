@@ -1,0 +1,4 @@
+DisableTorchFunctionSubclass__enter
+DisableTorchFunctionSubclass__exit
+DisableTorchFunction__enter
+DisableTorchFunction__exit

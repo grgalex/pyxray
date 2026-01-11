@@ -1,0 +1,9 @@
+Call._start_batch
+Call.start_client_batch
+Call.start_server_batch
+Call.cancel
+Call.set_credentials
+Call.peer
+Call.__dealloc__
+Call.is_valid
+Call._custom_op_on_c_call

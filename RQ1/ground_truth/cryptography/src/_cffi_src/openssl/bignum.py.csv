@@ -1,0 +1,9 @@
+BN_new
+BN_free
+BN_rand_range
+BN_set_word
+BN_bn2hex
+BN_hex2bn
+BN_generate_prime_ex
+BN_is_prime_ex
+BN_prime_checks_for_size

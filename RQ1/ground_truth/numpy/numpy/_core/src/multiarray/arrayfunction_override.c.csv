@@ -1,0 +1,6 @@
+dispatcher_get_implementation
+dispatcher_new
+dispatcher_reduce
+dispatcher_repr
+dispatcher_str
+func_dispatcher___get__

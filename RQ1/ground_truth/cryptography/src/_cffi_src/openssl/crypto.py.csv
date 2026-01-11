@@ -1,0 +1,5 @@
+OPENSSL_cleanup
+OpenSSL_version_num
+OpenSSL_version
+OPENSSL_malloc
+OPENSSL_free

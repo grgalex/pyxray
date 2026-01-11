@@ -1,0 +1,8 @@
+THPDtype_reduce
+THPDtype_to_real
+THPDtype_to_complex
+THPDtype_is_floating_point
+THPDtype_is_complex
+THPDtype_is_signed
+THPDtype_itemsize
+THPDtype_repr

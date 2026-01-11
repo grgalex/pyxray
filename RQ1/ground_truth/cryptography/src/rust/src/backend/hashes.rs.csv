@@ -1,0 +1,8 @@
+hash_supported
+Hash.__new__
+Hash.update
+Hash.finalize
+Hash.copy
+XOFHash.__new__
+XOFHash.update
+XOFHash.copy

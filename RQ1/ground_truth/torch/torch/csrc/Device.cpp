@@ -1,0 +1,9 @@
+THPDevice_reduce
+THPDevice_enter
+THPDevice_exit
+THPDevice_type
+THPDevice_index
+THPDevice_pynew
+THPDevice_str
+THPDevice_hash
+THPDevice_repr

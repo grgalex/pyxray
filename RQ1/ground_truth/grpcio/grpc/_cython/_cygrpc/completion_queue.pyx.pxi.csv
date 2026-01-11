@@ -1,0 +1,4 @@
+CompletionQueue._internal_poll
+CompletionQueue.poll
+CompletionQueue.clear
+CompletionQueue.shutdown

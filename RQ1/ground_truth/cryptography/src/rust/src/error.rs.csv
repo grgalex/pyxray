@@ -1,0 +1,3 @@
+raise_openssl_error
+OpenSSLError.__repr__
+capture_error_stack

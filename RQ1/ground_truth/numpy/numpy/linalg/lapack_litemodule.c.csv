@@ -1,0 +1,7 @@
+lapack_lite_dgelsd
+lapack_lite_dgeqrf
+lapack_lite_dorgqr
+lapack_lite_xerbla
+lapack_lite_zgelsd
+lapack_lite_zgeqrf
+lapack_lite_zungqr

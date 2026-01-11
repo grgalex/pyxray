@@ -1,0 +1,12 @@
+x448.generate_key
+x448.from_private_bytes
+x448.from_public_bytes
+X448PrivateKey.exchange
+X448PrivateKey.public_key
+X448PrivateKey.private_bytes_raw
+X448PrivateKey.private_bytes
+X448PrivateKey.__copy__
+X448PublicKey.public_bytes_raw
+X448PublicKey.public_bytes
+X448PublicKey.__richcmp__
+X448PublicKey.__copy__

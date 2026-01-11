@@ -1,0 +1,5 @@
+ObjectIdentifier.__new__
+ObjectIdentifier.__deepcopy__
+ObjectIdentifier.__repr__
+ObjectIdentifier.__richcmp__
+ObjectIdentifier.__hash__

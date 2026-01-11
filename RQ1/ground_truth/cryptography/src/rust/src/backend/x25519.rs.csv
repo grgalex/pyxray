@@ -1,0 +1,10 @@
+x25519.generate_key
+x25519.from_private_bytes
+x25519.from_public_bytes
+X25519PrivateKey.public_bytes_raw
+X25519PrivateKey.public_bytes
+X25519PrivateKey.__richcmp__
+X25519PrivateKey.__copy__
+X25519PublicKey.public_bytes
+X25519PublicKey.public_bytes_raw
+X25519PublicKey.__copy__

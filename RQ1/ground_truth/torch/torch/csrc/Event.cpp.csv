@@ -1,0 +1,12 @@
+THPEvent_from_ipc_handle
+THPEvent_record
+THPEvent_wait
+THPEvent_query
+THPEvent_elapsed_time
+THPEvent_synchronize
+THPEvent_ipc_handle
+THPEvent_dealloc
+THPEvent_repr
+THPEvent_pynew
+THPEvent_get_device
+THPEvent_evend_id

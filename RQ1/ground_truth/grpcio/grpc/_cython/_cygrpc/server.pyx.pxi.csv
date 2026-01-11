@@ -1,0 +1,11 @@
+RegisteredMethod.__dealloc__
+Server.request_call
+Server.request_registered_call
+Server.register_completion_queue
+Server.register_method
+Server.start
+Server.add_http2_port
+Server.shutdown
+Server.cancel_all_calls
+Server.destroy
+Server.__dealloc__

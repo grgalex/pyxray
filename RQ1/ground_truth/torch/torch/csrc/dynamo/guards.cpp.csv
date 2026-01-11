@@ -1,0 +1,14 @@
+TensorGuards_check
+TensorGuards_check_verbose
+check_type_id
+check_obj_id
+assert_size_stride
+dict_version
+_empty_strided_cpu
+_empty_strided_cuda
+_empty_strided_xpu
+_reinterpret_tensor
+TensorGuards_dealloc
+TensorGuards_init
+TensorGuards_new
+GlobalStateGuard_init

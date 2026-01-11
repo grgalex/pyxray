@@ -1,0 +1,5 @@
+PyExtensionPolicy.webpki_defaults_ca
+PyExtensionPolicy.webpki_defaults_ee
+PyExtensionPolicy.require_not_present
+PyExtensionPolicy.may_be_present
+PyExtensionPolicy.require_present

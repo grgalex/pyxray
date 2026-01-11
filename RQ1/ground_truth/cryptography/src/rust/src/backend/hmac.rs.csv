@@ -1,0 +1,5 @@
+Hmac.__new__
+Hmac.update
+Hmac.finalize
+Hmac.verify
+Hmac.copy

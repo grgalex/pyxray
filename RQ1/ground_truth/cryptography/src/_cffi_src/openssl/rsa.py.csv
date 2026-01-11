@@ -1,0 +1,5 @@
+RSA_new
+RSA_free
+RSA_generate_key_ex
+RSA_check_key
+RSA_print

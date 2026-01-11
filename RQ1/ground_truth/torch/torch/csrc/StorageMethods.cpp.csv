@@ -1,0 +1,17 @@
+THPStorage_copy_
+THPStorage_elementSize
+THPStorage_fill_
+THPStorage_new
+THPStorage_resize_
+THPStorage_nbytes
+THPStorage_dataPtr
+THPStorage_resizable
+THPStorage_writeFile
+THPStorage_newWithFile
+THPStorage_setFromFile
+THPStorage_fromBuffer
+THPStorage_fromFile
+THPStorage__setCdata
+THPStorage_byteswap
+THPStorage_fix_weakref
+THPStorage__get_filename

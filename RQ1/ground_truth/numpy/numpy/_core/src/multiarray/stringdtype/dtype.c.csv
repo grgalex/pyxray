@@ -1,0 +1,5 @@
+PyArray_StringDType_hash
+stringdtype_dealloc
+stringdtype_new
+stringdtype__reduce__
+stringdtype_repr

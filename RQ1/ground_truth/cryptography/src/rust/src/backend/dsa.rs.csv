@@ -1,0 +1,26 @@
+DsaPrivateKey.sign
+DsaPrivateKey.public_key
+DsaPrivateKey.parameters
+DsaPrivateKey.private_numbers
+DsaPrivateKey.private_bytes
+DsaPrivateKey.__copy__
+DsaPublicKey.verify
+DsaPublicKey.parameters
+DsaPublicKey.public_numbers
+DsaPublicKey.public_bytes
+DsaPublicKey.__richcmp__ (from __eq__)
+DsaPublicKey.__copy__
+DsaParameters.generate_private_key
+DsaParameters.parameter_numbers
+dsa.generate_parameters
+DsaPrivateNumbers.__new__
+DsaPrivateNumbers.private_key
+DsaPrivateNumbers.__richcmp__
+DsaPublicNumbers.__new__
+DsaPublicNumbers.public_key
+DsaPublicNumbers.__richcmp__
+DsaPublicNumbers.__repr__
+DsaParameterNumbers.__new__
+DsaParameterNumbers.parameters
+DsaParameterNumbers.__richcmp__
+DsaParameterNumbers.__repr__

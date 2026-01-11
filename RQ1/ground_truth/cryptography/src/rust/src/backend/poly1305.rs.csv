@@ -1,0 +1,6 @@
+Poly1305.__new__
+Poly1305.generate_tag
+Poly1305.verify_tag
+Poly1305.update
+Poly1305.finalize
+Poly1305.verify

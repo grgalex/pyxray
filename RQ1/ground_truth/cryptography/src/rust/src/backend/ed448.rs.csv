@@ -1,0 +1,13 @@
+ed448.generate_key
+ed448.from_private_bytes
+ed448.from_public_bytes
+Ed448PrivateKey.sign
+Ed448PrivateKey.public_key
+Ed448PrivateKey.private_bytes_raw
+Ed448PrivateKey.private_bytes
+Ed448PrivateKey.__copy__
+Ed448PublicKey.verify
+Ed448PublicKey.public_bytes_raw
+Ed448PublicKey.public_bytes
+Ed448PublicKey.__richcmp__
+Ed448PublicKey.__copy__

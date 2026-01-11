@@ -1,0 +1,16 @@
+THPStorage_newWithWeakPtr
+THPStorage_shareCuda
+THPStorage_newSharedCuda
+THPStorage_releaseIPCCounter
+THPStorage_shareFd
+THPStorage_pyNewFdStorage
+THPStorage_shareFilename
+THPStorage_newSharedFilename
+THPStorage_pyNewFilenameStorage
+THPStorage_weakRef
+THPStorage_freeWeakRef
+THPStorage_expired
+THPStorage_sharedDecref
+THPStorage_sharedIncref
+THPStorage_sharedFd
+THPStorage_isShared
